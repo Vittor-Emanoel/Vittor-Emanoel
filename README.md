@@ -1,7 +1,8 @@
 ### <h1> Hello Dev's!😀 </h1>
 
-📚 Estudando atualmente: JS.
-😎 Idade: 19 Anos.
+<p>📚 Estudando atualmente: JS.</p>
+
+<p>😎 Idade: 19 Anos.</p>
 
 
 
