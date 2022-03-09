@@ -1,3 +1,8 @@
-### <h1> SEJA BEM VINDO AO MEU REPOSITÓRIO!😀 </h1> 
-📚: Estudando atualmente: HTML, CSS E JS.
+### <h1> Hello Dev's!😀 </h1>
+
+📚 Estudando atualmente: JS.
+😎 Idade: 19 Anos.
+
+
+
 
