@@ -1,7 +1,7 @@
 ### <h1>Olá Devs! Meu chamo Vittor e sou Desenvolvedor front-end < /> </h1>
 
 <p> 🖥 Sou fascinado por tecnologia desde criança</p>
- <p> 😅Ler é um dos meus hobbis</p>
+ <p> 😅Ler é um dos meus hobbis.</p>
 <p> 📚Estudando atualmente: JavaScript & React.
 
 <div align="center">
