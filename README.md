@@ -1,7 +1,17 @@
-### <h1>Olá Devs! Meu chamo Vittor e sou Desenvolvedor front-end < /> </h1>
 
+# Olá, eu sou o Vittor! < /> 👋
 
-<div align="center">
+Sou um desenvolvedor Front-end
+
+<h2> Atualmente estou estudando: </h2>
+
+- JavaScript (manipular a dom, assincronismo, e estrutura de dados);
+- Banco de Dados(Mysql);
+- UI designer.
+
+ 
+
+<div >
   <a href="https://github.com/Vittor-Emanoel">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Vittor-Emanoel&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vittor-Emanoel&layout=compact&langs_count=7&theme=default"/>
