@@ -1,7 +1,7 @@
 
 # Olá, eu sou o Vittor! < /> 👋
 
-Sou um desenvolvedor Front-end
+Sou um desenvolvedor Front-end, gosto de ler e de tudo que envolva tecnologia.
 
 <h2> Atualmente estou estudando: </h2>
 
@@ -26,11 +26,7 @@ Sou um desenvolvedor Front-end
 
 ##
 
-  <a href="https://www.instagram.com/vittor.emanoel1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:vittordeve@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vittor-emanoel-8971321b1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+
 
  
 </div>
