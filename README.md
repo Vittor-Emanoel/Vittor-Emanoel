@@ -1,7 +1,9 @@
 
 # Olá, eu sou o Vittor! < /> 👋
 
-Sou um desenvolvedor Front-end, gosto de ler e de tudo que envolva tecnologia.
+Sou um desenvolvedor Front-end.
+
+Gosto de ler e de tudo que envolva tecnologia.
 
 <h2> Atualmente estou estudando: </h2>
 
