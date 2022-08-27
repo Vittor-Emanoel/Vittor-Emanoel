@@ -1,11 +1,13 @@
 
 # Olá, eu sou o Vittor! < /> 👋
 
-Sou um desenvolvedor Front-end.
+Sejam bem vindos ao meu repositório de projetos!
 
-Gosto de ler e de tudo que envolva tecnologia.
+Sou um desenvolvedor Front-end iniciante.
 
-<h2> Atualmente estou estudando: </h2>
+
+
+<h2> 🔥Atualmente estou estudando: </h2>
 
 - JavaScript (manipular a dom, assincronismo, e estrutura de dados);
 - Banco de Dados(Mysql);
