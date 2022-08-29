@@ -1,5 +1,5 @@
 
-# Olá, eu sou o Vittor, e estou iniciando como desenvolvedor Front-end! < /> 👋
+# 👋 Olá, eu sou o Vittor, desenvolvedor Front-end! < /> 
 
 <p align="center">
 <a href="https://instagram.com/vittor.emanoel1"><img src="https://img.shields.io/badge/-@vittor.emanoel1_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
