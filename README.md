@@ -10,7 +10,7 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-* 🖥 &nbsp; Desde de criança que sou apaixonado por técnologia. Lembro que eu ficava fuçando o computador lá de casa tentado instalar uns jogos e alguns programas, pesquisava como formatar e etc, e foi assim que eu fui aprendendo, sendo curioso. Depois de um tempo entrei em um curso técnico, e foi lá com 16 anos que tive meu primeiro com contato com a programção. Fiz um trabalho em grupo usando o arduino & a linguagem scratch, depois tive um leve contato com a linguagem Java aonde desenvolvi um projeto de uma lanchonete. Mas parei de programar ainda no começo quando estava aprendendo lógica de programação.
+* 🖥 &nbsp; Desde de criança que sou apaixonado por tecnologia. Lembro que eu ficava fuçando o computador lá de casa tentado instalar uns jogos e alguns programas, pesquisava como formatar e etc, e foi assim que eu fui aprendendo, sendo curioso. Depois de um tempo entrei em um curso técnico, e foi lá com 16 anos que tive meu primeiro com contato com a programção. Fiz um trabalho em grupo usando o arduino & a linguagem scratch, depois tive um leve contato com a linguagem Java aonde desenvolvi um projeto de uma lanchonete. Mas parei de programar ainda no começo quando estava aprendendo lógica de programação.
 
 * 🚀 &nbsp; Voltei a programar recentemente com o foco no Front-end, e utilizo a stack JavaScript com o foco em ser um desenvolvedor React.
 
