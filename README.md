@@ -18,7 +18,7 @@
 
 <h2> 🔥 &nbsp;Currently studying </h2>
  
-  * Estou me preparando para começar com React e por isso estou revendo tudo que já estudei, Estrutura de Dados, Assincronismo e manipulação da DOM (JAVASCRIPT), para ter uma boa base no React.
+  * Estou estudando nodeJs(modulos, criação de apis com o padrão MVC) e react c/typescript
 
  * Já tenho projetos em React, mas pretendo ir afundo.
  
