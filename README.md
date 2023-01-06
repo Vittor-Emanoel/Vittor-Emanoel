@@ -1,41 +1,44 @@
 
-# 👋 Olá, eu sou o Vittor, desenvolvedor Front-end! < /> 
+# Hello World ☕ < /> 
 
-<p align="center">
-<a href="https://instagram.com/vittor.emanoel1"><img src="https://img.shields.io/badge/-@vittor.emanoel1_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/vittor-emanoel-8971321b1/"><img src="https://img.shields.io/badge/-Vittor%20Emanoel%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:vittore.dev@gmail.com"><img src="https://img.shields.io/badge/-vittore.dev@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+* 🖥 Atualmente estou cursando Analise e desenvolvimento de sistemas
 
-</p>
+* 🚀 &nbsp; Foco no Front-end, e utilizo a stack JavaScript com o foco em ser um desenvolvedor React
 
-<h2> 👨🏻‍💻 &nbsp;About Me </h2>
+* 📖 &nbsp; Gosto de ler, quando não estou codando estou lendo algum livro Rs!
 
-* 🖥 &nbsp; Desde de criança que sou apaixonado por tecnologia. Lembro que eu ficava fuçando o computador lá de casa tentado instalar uns jogos e alguns programas, pesquisava como formatar e etc, e foi assim que eu fui aprendendo, sendo curioso. Depois de um tempo entrei em um curso técnico, e foi lá com 16 anos que tive meu primeiro com contato com a programção. Fiz um trabalho em grupo usando o arduino & a linguagem scratch, depois tive um leve contato com a linguagem Java aonde desenvolvi um projeto de uma lanchonete. Mas parei de programar ainda no começo quando estava aprendendo lógica de programação.
 
-* 🚀 &nbsp; Voltei a programar recentemente com o foco no Front-end, e utilizo a stack JavaScript com o foco em ser um desenvolvedor React.
-
-* 📖 &nbsp; Também sou apaixonado por livros e por teologia, quando não estou codando estou lendo algum livro. Rs!
-
-<h2> 🔥 &nbsp;Currently studying </h2>
- 
-  * Estou estudando nodeJs(modulos, criação de apis com o padrão MVC) e react c/typescript
-
- * Já tenho projetos em React, mas pretendo ir afundo.
- 
-
-<h2> 🐱‍🏍 &nbsp;About my profile</h2>
-<div >
+<div align="center" >
   <a href="https://github.com/Vittor-Emanoel">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Vittor-Emanoel&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vittor-Emanoel&layout=compact&langs_count=7&theme=default"/>
 </div>
 
-
-##
-
-
-
- 
+<h2> Tecnologias que uso </h2>
+<div style="display: flex; gap: 8px; align-items: center; flex-wrap:wrap;">
+  <img  height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img  height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img  height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img  height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img  height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img  height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+<br>
+
+## Tecnologias que estou aprendendo
+
+<div style="display: flex; gap: 8px; align-items: center; flex-wrap:wrap;"><br>
+  <img height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img  height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+  <img  height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img height="50" width="60" alt="firebase">
+  <img height="50" width="60" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
+  <img  height="50" width="60" src="https://icongr.am/devicon/express-original.svg?size=128&color=83cd29">
+</div>
+<br>
+  
+ 
+
+
 
 
