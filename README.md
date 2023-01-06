@@ -25,18 +25,6 @@
 </div>
 <br>
 
-## Tecnologias que estou aprendendo
-
-<div style="display: flex; gap: 8px; align-items: center; flex-wrap:wrap;"><br>
-  <img height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img  height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  <img  height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img height="50" width="60" alt="firebase">
-  <img height="50" width="60" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
-  <img  height="50" width="60" src="https://icongr.am/devicon/express-original.svg?size=128&color=83cd29">
-</div>
-<br>
-  
  
 
 
