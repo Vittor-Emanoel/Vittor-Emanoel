@@ -23,6 +23,7 @@
   <img  height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img  height="50" width="50" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png">
     <img  height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+      <img  height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png">
 </div>
 <br>
   
