@@ -13,7 +13,7 @@
  *  [I study and use the JavaScript stack].
  *  [I like a good book, good friends and a freshly brewed coffee].
 
-Philippians 4:13, "I can do all things through Christ who strengthens me. 
+Philippians 4:13, "I can do all things through Christ who strengthens me". 
 
 
 
