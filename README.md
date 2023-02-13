@@ -5,7 +5,7 @@
 
 ### About me
 
- I'm christian
+ I'm christian 🙏🏽
  
  I'm a { Front-end & Backend JavaScript }  = developer.
  
