@@ -2,7 +2,7 @@
 ### Hi, I'm Vittor ! 👋
 
 
-I'm a Brazilian fullstack developer and technology enthusiast with a passion for computing and software development.
+I'm a Brazilian fullstack developer and technology enthusiast with a passion for computing and software development for over 3 years..
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/vittor-emanoel-8971321b1/)](https://www.linkedin.com/in/vittor-emanoel-8971321b1/)
 
@@ -21,7 +21,7 @@ I'm a Brazilian fullstack developer and technology enthusiast with a passion for
 - 📱  Mobile app development: React Native.
 - 🌐 Web development: HTML, CSS, JavaScript, ReactJS, NextJS and more.
 - 👩‍💻 Back-end development: NodeJs, Express, Fastify, Nest, Postgresql and more.
-- 🛠️ Tools and technologies: Git, GitHub, VSCode, Expo, Figma and more.
+- 🛠️ Tools and technologies: Git, GitHub, Jest, Cypress, VSCode, Expo, Figma and more.
 
 "Do you fancy a coffee?" ☕
 
