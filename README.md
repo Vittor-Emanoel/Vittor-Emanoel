@@ -2,7 +2,7 @@
 ### Hi, I'm Vittor ! 👋
 
 
-I'm a Brazilian fullstack developer and technology enthusiast with a passion for computing and software development for over 3 years..
+I'm a Brazilian fullstack developer and technology enthusiast with a passion for computing and software development.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/vittor-emanoel-8971321b1/)](https://www.linkedin.com/in/vittor-emanoel-8971321b1/)
 
