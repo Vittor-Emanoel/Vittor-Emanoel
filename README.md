@@ -21,7 +21,7 @@ I'm a Brazilian fullstack developer and technology enthusiast with a passion for
 - 📱  Mobile app development: React Native.
 - 🌐 Web development: HTML, CSS, JavaScript, ReactJS, NextJS and more.
 - 👩‍💻 Back-end development: NodeJs, Express, Fastify, Nest, Postgresql and more.
-- 🛠️ Tools and technologies: Git, GitHub, Jest, Cypress, VSCode, Expo, Figma and more.
+- 🛠️ Tools and technologies: Git, GitHub, Jest, Cypress, VSCode, Expo, Figma, UI/UX and more.
 
 "Do you fancy a coffee?" ☕
 
